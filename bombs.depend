@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1664125460 source:c:\users\dimia\onedrive\desktop\Τα προγραμματα μου\bombs\src\board.cpp
+	"Board.h"
+	<iostream>
+	<cstdlib>
+	"time.h"
+
+1663857714 c:\users\dimia\onedrive\desktop\Τα προγραμματα μου\bombs\include\board.h
+	"square.h"
+	<string>
+
+1663857797 c:\users\dimia\onedrive\desktop\Τα προγραμματα μου\bombs\include\square.h
+
+1663877456 source:c:\users\dimia\onedrive\desktop\Τα προγραμματα μου\bombs\src\player.cpp
+	"player.h"
+	<iostream>
+	"Board.h"
+
+1663871943 c:\users\dimia\onedrive\desktop\Τα προγραμματα μου\bombs\include\player.h
+	<string>
+	"square.h"
+	"Board.h"
+
+1663858067 source:c:\users\dimia\onedrive\desktop\Τα προγραμματα μου\bombs\src\square.cpp
+	"square.h"
+
+1663871622 source:c:\users\dimia\onedrive\desktop\Τα προγραμματα μου\bombs\main.c
+	<iostream>
+	<Board.h>
+	<square.h>
+	<player.h>
+
